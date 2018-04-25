@@ -4,3 +4,4 @@ ceshi
 This is a test
 tracks changes
 Creating a brand new branch is quick
+Creating a brand new branch is quick and simple
