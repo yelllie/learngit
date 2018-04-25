@@ -4,8 +4,4 @@ ceshi
 This is a test
 tracks changes
 Creating a brand new branch is quick
-<<<<<<< HEAD
 Creating a brand new branch is quick & simple
-=======
-Creating a brand new branch is quick & simple
->>>>>>> feature1
